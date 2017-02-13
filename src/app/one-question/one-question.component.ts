@@ -69,6 +69,10 @@ export class OneQuestionComponent implements OnInit {
         }
         console.log(x);
       }
+
+      if(this.quiz.revealAnswer) {
+        this.correctAnswer = this.correctAnswerIndex;
+      }
     }
   }
 

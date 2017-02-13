@@ -43,11 +43,21 @@ export class QuizScreenComponent implements OnInit {
     })
   }
 
-  generateQuestion() {
+  generateQuestion(questionId: number, revealAnswer: boolean) {
     this.quiz.subscribe(data => {
       if (data.length > 0) {
         this.answerArray = [];
-        this.questionNumber = this.randomNumber(data.length - 1);
+        console.log(typeof questionId);
+        if(typeof questionId !== 'undefined') {
+          if(questionId>0 && questionId <= data.length) {
+            this.questionNumber = questionId;
+          } else {
+            alert("Invalid Question Id. Showing Random Question");
+            this.questionNumber = this.randomNumber(data.length - 1);
+          }
+        } else {
+          this.questionNumber = this.randomNumber(data.length - 1);
+        }
         this.answerArray.push(data[this.questionNumber]['Answer']);
         this.answerArray.push(data[this.randomNumber(data.length - 1)]['Answer']);
         this.answerArray.push(data[this.randomNumber(data.length - 1)]['Answer']);
@@ -56,7 +66,7 @@ export class QuizScreenComponent implements OnInit {
         console.log(data);
         // this.oneQuestion = data[0];
         this.oneQuestion = {
-          Question: data[this.questionNumber]['Question'], Answer: this.answerArray
+          Question: data[this.questionNumber]['Question'], Answer: this.answerArray, revealAnswer: revealAnswer
         };
         console.log(this.oneQuestion);
         console.log(data[0]['Question']);
@@ -71,13 +81,16 @@ export class QuizScreenComponent implements OnInit {
   ngOnInit() {
     this.answerArray = [];
     this.quiz = this.quizApi.quiz;
-    
+
 
     this.route.params.subscribe(params => {
       this.selectedQuiz = params['quiz'];
       console.log(this.selectedQuiz);
       this.quizApi.loadQuiz(this.selectedQuiz);
-      this.generateQuestion();
+      var questionId = this.route.snapshot.queryParams['force_question_id'];
+      var revealAnswer = this.route.snapshot.queryParams['reveal_answer'];
+      console.log('question-------', questionId, revealAnswer);
+      this.generateQuestion(questionId, (revealAnswer == 'true'));
     })
 
     // Load the consignments from the consignment service
