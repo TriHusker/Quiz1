@@ -1,0 +1,133 @@
+[{
+    "Question": "Basic Box Properties",
+    "Answer": ""
+  },
+  {
+    "Question": "Property",
+    "Answer": "Description"
+  },
+  {
+    "Question": "bottom",
+    "Answer": "Specifies the bottom position of a positioned element"
+  },
+  {
+    "Question": "clear",
+    "Answer": "Specifies which sides of an element where other floating elements are not allowed"
+  },
+  {
+    "Question": "clip",
+    "Answer": "Clips an absolutely positioned element"
+  },
+  {
+    "Question": "display",
+    "Answer": "Specifies how a certain HTML element should be displayed"
+  },
+  {
+    "Question": "float",
+    "Answer": "Specifies whether or not a box should float"
+  },
+  {
+    "Question": "height",
+    "Answer": "Sets the height of an element"
+  },
+  {
+    "Question": "left",
+    "Answer": "Specifies the left position of a positioned element"
+  },
+  {
+    "Question": "margin",
+    "Answer": "Sets all the margin properties in one declaration"
+  },
+  {
+    "Question": "margin-bottom",
+    "Answer": "Sets the bottom margin of an element"
+  },
+  {
+    "Question": "margin-left",
+    "Answer": "Sets the left margin of an element"
+  },
+  {
+    "Question": "margin-right",
+    "Answer": "Sets the right margin of an element"
+  },
+  {
+    "Question": "margin-top",
+    "Answer": "Sets the top margin of an element"
+  },
+  {
+    "Question": "max-height",
+    "Answer": "Sets the maximum height of an element"
+  },
+  {
+    "Question": "max-width",
+    "Answer": "Sets the maximum width of an element"
+  },
+  {
+    "Question": "min-height",
+    "Answer": "Sets the minimum height of an element"
+  },
+  {
+    "Question": "min-width",
+    "Answer": "Sets the minimum width of an element"
+  },
+  {
+    "Question": "overflow",
+    "Answer": "Specifies what happens if content overflows an element's box"
+  },
+  {
+    "Question": "overflow-x",
+    "Answer": "Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area"
+  },
+  {
+    "Question": "overflow-y",
+    "Answer": "Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area"
+  },
+  {
+    "Question": "padding",
+    "Answer": "Sets all the padding properties in one declaration"
+  },
+  {
+    "Question": "padding-bottom",
+    "Answer": "Sets the bottom padding of an element"
+  },
+  {
+    "Question": "padding-left",
+    "Answer": "Sets the left padding of an element"
+  },
+  {
+    "Question": "padding-right",
+    "Answer": "Sets the right padding of an element"
+  },
+  {
+    "Question": "padding-top",
+    "Answer": "Sets the top padding of an element"
+  },
+  {
+    "Question": "position",
+    "Answer": "Specifies the type of positioning method used for an element (static, relative, absolute or fixed)"
+  },
+  {
+    "Question": "right",
+    "Answer": "Specifies the right position of a positioned element"
+  },
+  {
+    "Question": "top",
+    "Answer": "Specifies the top position of a positioned element"
+  },
+  {
+    "Question": "visibility",
+    "Answer": "Specifies whether or not an element is visible"
+  },
+  {
+    "Question": "width",
+    "Answer": "Sets the width of an element"
+  },
+  {
+    "Question": "vertical-align",
+    "Answer": "Sets the vertical alignment of an element"
+  },
+  {
+    "Question": "z-index",
+    "Answer": "Sets the stack order of a positioned element"
+  }
+]

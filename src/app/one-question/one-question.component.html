@@ -1,0 +1,27 @@
+<form (ngSubmit)="finalize()" #quizForm="ngForm" *ngIf="quiz">
+  <div id="container">
+    <div id="header">
+      <div class="doing" *ngIf="working"><i class="fa fa-spinner fa-spin fa-lg fa-fw"></i>Working...</div>
+      <div style="width: 100%">
+        <fieldset>
+          <legend class="title">Quiz</legend>
+          <div class="question">
+            <label for="name"></label> {{quiz.Question }}
+          </div>
+          <div (click)="highlightChoice(0)" class="op" [class.correct-answer]="correctAnswer===0" [class.wrong-answer]="wrongAnswer===0">
+            <label for="name"></label> {{answerArray[0]}}
+          </div>
+          <div (click)="highlightChoice(1)" class="op" [class.correct-answer]="correctAnswer===1"[class.wrong-answer]="wrongAnswer===1">
+            <label for="name"></label> {{answerArray[1]}}
+          </div>
+          <div (click)="highlightChoice(2)" class="op" [class.correct-answer]="correctAnswer===2"[class.wrong-answer]="wrongAnswer===2">
+            <label for="name"></label> {{answerArray[2]}}
+          </div>
+          <div (click)="highlightChoice(3)" class="op" [class.correct-answer]="correctAnswer===3"[class.wrong-answer]="wrongAnswer===3">
+            <label for="name"></label> {{answerArray[3]}}
+          </div>
+        </fieldset>
+      </div>
+    </div>
+  </div>
+</form>

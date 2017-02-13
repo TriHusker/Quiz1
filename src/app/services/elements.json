@@ -1,0 +1,145 @@
+[{
+    "Question": "<article>",
+    "Answer": "Defines an article in the document"
+  },
+  {
+    "Question": "<aside>",
+    "Answer": "Defines content aside from the page content"
+  },
+  {
+    "Question": "<bdi>",
+    "Answer": "Defines a part of text that might be formatted in a different direction from other text"
+  },
+  {
+    "Question": "<details>",
+    "Answer": "Defines additional details that the user can view or hide"
+  },
+  {
+    "Question": "<dialog>",
+    "Answer": "Defines a dialog box or window"
+  },
+  {
+    "Question": "<figcaption>",
+    "Answer": "Defines a caption for a <figure> element"
+  },
+  {
+    "Question": "<figure>",
+    "Answer": "Defines self-contained content, like illustrations, diagrams, photos, code listings, etc."
+  },
+  {
+    "Question": "<footer>",
+    "Answer": "Defines a footer for the document or a section"
+  },
+  {
+    "Question": "<header>",
+    "Answer": "Defines a header for the document or a section"
+  },
+  {
+    "Question": "<main>",
+    "Answer": "Defines the main content of a document"
+  },
+  {
+    "Question": "<mark>",
+    "Answer": "Defines marked or highlighted text"
+  },
+  {
+    "Question": "<menuitem> ",
+    "Answer": "Defines a command/menu item that the user can invoke from a popup menu"
+  },
+  {
+    "Question": "<meter>",
+    "Answer": "Defines a scalar measurement within a known range (a gauge)"
+  },
+  {
+    "Question": "<nav>",
+    "Answer": "Defines navigation links in the document"
+  },
+  {
+    "Question": "<progress>",
+    "Answer": "Defines the progress of a task"
+  },
+  {
+    "Question": "<rp>",
+    "Answer": "Defines what to show in browsers that do not support ruby annotations"
+  },
+  {
+    "Question": "<rt>",
+    "Answer": "Defines an explanation/pronunciation of characters (for East Asian typography)"
+  },
+  {
+    "Question": "<ruby>",
+    "Answer": "Defines a ruby annotation (for East Asian typography)"
+  },
+  {
+    "Question": "<section>",
+    "Answer": "Defines a section in the document"
+  },
+  {
+    "Question": "<summary>",
+    "Answer": "Defines a visible heading for a <details> element"
+  },
+  {
+    "Question": "<time>",
+    "Answer": "Defines a date/time"
+  },
+  {
+    "Question": "<wbr>",
+    "Answer": "Defines a possible line-break"
+  },
+  {
+    "Question": "<datalist>",
+    "Answer": "Defines pre-defined options for input controls"
+  },
+  {
+    "Question": "<keygen>",
+    "Answer": "Defines a key-pair generator field (for forms)"
+  },
+  {
+    "Question": "<output>",
+    "Answer": "Defines the result of a calculation"
+  },
+  {
+    "Question": "Empty",
+    "Answer": "<input type="
+  },
+  {
+    "Question": "Unquoted",
+    "Answer": "<input type="
+  },
+  {
+    "Question": "Double-quoted",
+    "Answer": "<input type="
+  },
+  {
+    "Question": "Single-quoted",
+    "Answer": "<input type="
+  },
+  {
+    "Question": "<canvas>",
+    "Answer": "Draw graphics, on the fly, via scripting (usually JavaScript)"
+  },
+  {
+    "Question": "<svg>",
+    "Answer": "Draw scalable vector graphics"
+  },
+  {
+    "Question": "<audio>",
+    "Answer": "Defines sound content"
+  },
+  {
+    "Question": "<embed>",
+    "Answer": "Defines containers for external applications (like plug-ins)"
+  },
+  {
+    "Question": "<source>",
+    "Answer": "Defines sources for <video> and <audio>"
+  },
+  {
+    "Question": "<track>",
+    "Answer": "Defines tracks for <video> and <audio>"
+  },
+  {
+    "Question": "<video>",
+    "Answer": "Defines video or movie content"
+  }
+]

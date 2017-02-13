@@ -1,0 +1,49 @@
+[{
+    "Question": "align-content",
+    "Answer": "Specifies the alignment between the lines inside a flexible container when the items do not use all available space"
+  },
+  {
+    "Question": "align-items",
+    "Answer": "Specifies the alignment for items inside a flexible container"
+  },
+  {
+    "Question": "align-self",
+    "Answer": "Specifies the alignment for selected items inside a flexible container"
+  },
+  {
+    "Question": "flex",
+    "Answer": "Specifies the length of the item, relative to the rest"
+  },
+  {
+    "Question": "flex-basis",
+    "Answer": "Specifies the initial length of a flexible item"
+  },
+  {
+    "Question": "flex-direction",
+    "Answer": "Specifies the direction of the flexible items"
+  },
+  {
+    "Question": "flex-flow",
+    "Answer": "A shorthand property for the flex-direction and the flex-wrap properties"
+  },
+  {
+    "Question": "flex-grow",
+    "Answer": "Specifies how much the item will grow relative to the rest"
+  },
+  {
+    "Question": "flex-shrink",
+    "Answer": "Specifies how the item will shrink relative to the rest"
+  },
+  {
+    "Question": "flex-wrap",
+    "Answer": "Specifies whether the flexible items should wrap or not"
+  },
+  {
+    "Question": "justify-content",
+    "Answer": "Specifies the alignment between the items inside a flexible container when the items do not use all available space"
+  },
+  {
+    "Question": "order",
+    "Answer": "Sets the order of the flexible item, relative to the rest"
+  }
+]

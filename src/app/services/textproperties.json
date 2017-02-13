@@ -1,0 +1,69 @@
+[{
+    "Question": "hanging-punctuation",
+    "Answer": "Specifies whether a punctuation character may be placed outside the line box"
+  },
+  {
+    "Question": "hyphens",
+    "Answer": "Sets how to split words to improve the layout of paragraphs"
+  },
+  {
+    "Question": "letter-spacing",
+    "Answer": "Increases or decreases the space between characters in a text"
+  },
+  {
+    "Question": "line-break",
+    "Answer": "Specifies how/if to break lines"
+  },
+  {
+    "Question": "line-height",
+    "Answer": "Sets the line height"
+  },
+  {
+    "Question": "overflow-wrap",
+    "Answer": "Specifies whether or not the browser may break lines within words in order to prevent overflow (when a string is too long to fit its containing box)"
+  },
+  {
+    "Question": "tab-size",
+    "Answer": "Specifies the length of the tab-character"
+  },
+  {
+    "Question": "text-align",
+    "Answer": "Specifies the horizontal alignment of text"
+  },
+  {
+    "Question": "text-align-last",
+    "Answer": "Describes how the last line of a block or a line right before a forced line break is aligned when text-align is "
+  },
+  {
+    "Question": "text-combine-upright",
+    "Answer": "Specifies the combination of multiple characters into the space of a single character"
+  },
+  {
+    "Question": "text-indent",
+    "Answer": "Specifies the indentation of the first line in a text-block"
+  },
+  {
+    "Question": "text-justify",
+    "Answer": "Specifies the justification method used when text-align is "
+  },
+  {
+    "Question": "text-transform",
+    "Answer": "Controls the capitalization of text"
+  },
+  {
+    "Question": "white-space",
+    "Answer": "Specifies how white-space inside an element is handled"
+  },
+  {
+    "Question": "word-break",
+    "Answer": "Specifies line breaking rules for non-CJK scripts"
+  },
+  {
+    "Question": "word-spacing",
+    "Answer": "Increases or decreases the space between words in a text"
+  },
+  {
+    "Question": "word-wrap",
+    "Answer": "Allows long, unbreakable words to be broken and wrap to the next line"
+  }
+]

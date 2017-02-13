@@ -1,0 +1,173 @@
+[{
+    "Question": "background",
+    "Answer": "A shorthand property for setting all the background properties in one declaration"
+  },
+  {
+    "Question": "background-attachment",
+    "Answer": "Sets whether a background image is fixed or scrolls with the rest of the page"
+  },
+  {
+    "Question": "background-blend-mode",
+    "Answer": "Specifies the blending mode of each background layer (color/image)"
+  },
+  {
+    "Question": "background-color",
+    "Answer": "Specifies the background color of an element"
+  },
+  {
+    "Question": "background-image",
+    "Answer": "Specifies one or more background images for an element"
+  },
+  {
+    "Question": "background-position",
+    "Answer": "Specifies the position of a background image"
+  },
+  {
+    "Question": "background-repeat",
+    "Answer": "Sets how a background image will be repeated"
+  },
+  {
+    "Question": "background-clip",
+    "Answer": "Specifies the painting area of the background"
+  },
+  {
+    "Question": "background-origin",
+    "Answer": "Specifies where the background image(s) is/are positioned"
+  },
+  {
+    "Question": "background-size",
+    "Answer": "Specifies the size of the background image(s)"
+  },
+  {
+    "Question": "border",
+    "Answer": "Sets all the border properties in one declaration"
+  },
+  {
+    "Question": "border-bottom",
+    "Answer": "Sets all the bottom border properties in one declaration"
+  },
+  {
+    "Question": "border-bottom-color",
+    "Answer": "Sets the color of the bottom border"
+  },
+  {
+    "Question": "border-bottom-left-radius",
+    "Answer": "Defines the shape of the border of the bottom-left corner"
+  },
+  {
+    "Question": "border-bottom-right-radius",
+    "Answer": "Defines the shape of the border of the bottom-right corner"
+  },
+  {
+    "Question": "border-bottom-style",
+    "Answer": "Sets the style of the bottom border"
+  },
+  {
+    "Question": "border-bottom-width",
+    "Answer": "Sets the width of the bottom border"
+  },
+  {
+    "Question": "border-color",
+    "Answer": "Sets the color of the four borders"
+  },
+  {
+    "Question": "border-image",
+    "Answer": "A shorthand property for setting all the border-image-* properties"
+  },
+  {
+    "Question": "border-image-outset",
+    "Answer": "Specifies the amount by which the border image area extends beyond the border box"
+  },
+  {
+    "Question": "border-image-repeat",
+    "Answer": "Specifies whether the border image should be repeated, rounded or stretched"
+  },
+  {
+    "Question": "border-image-slice",
+    "Answer": "Specifies how to slice the border image"
+  },
+  {
+    "Question": "border-image-source",
+    "Answer": "Specifies the path to the image to be used as a border"
+  },
+  {
+    "Question": "border-image-width",
+    "Answer": "Specifies the widths of the image-border"
+  },
+  {
+    "Question": "border-left",
+    "Answer": "Sets all the left border properties in one declaration"
+  },
+  {
+    "Question": "border-left-color",
+    "Answer": "Sets the color of the left border"
+  },
+  {
+    "Question": "border-left-style",
+    "Answer": "Sets the style of the left border"
+  },
+  {
+    "Question": "border-left-width",
+    "Answer": "Sets the width of the left border"
+  },
+  {
+    "Question": "border-radius",
+    "Answer": "A shorthand property for setting all the four border-*-radius properties"
+  },
+  {
+    "Question": "border-right",
+    "Answer": "Sets all the right border properties in one declaration"
+  },
+  {
+    "Question": "border-right-color",
+    "Answer": "Sets the color of the right border"
+  },
+  {
+    "Question": "border-right-style",
+    "Answer": "Sets the style of the right border"
+  },
+  {
+    "Question": "border-right-width",
+    "Answer": "Sets the width of the right border"
+  },
+  {
+    "Question": "border-style",
+    "Answer": "Sets the style of the four borders"
+  },
+  {
+    "Question": "border-top",
+    "Answer": "Sets all the top border properties in one declaration"
+  },
+  {
+    "Question": "border-top-color",
+    "Answer": "Sets the color of the top border"
+  },
+  {
+    "Question": "border-top-left-radius",
+    "Answer": "Defines the shape of the border of the top-left corner"
+  },
+  {
+    "Question": "border-top-right-radius",
+    "Answer": "Defines the shape of the border of the top-right corner"
+  },
+  {
+    "Question": "border-top-style",
+    "Answer": "Sets the style of the top border"
+  },
+  {
+    "Question": "border-top-width",
+    "Answer": "Sets the width of the top border"
+  },
+  {
+    "Question": "border-width",
+    "Answer": "Sets the width of the four borders"
+  },
+  {
+    "Question": "box-decoration-break",
+    "Answer": "Sets the behaviour of the background and border of an element at page-break, or, for in-line elements, at line-break."
+  },
+  {
+    "Question": "box-shadow",
+    "Answer": "Attaches one or more drop-shadows to the box"
+  }
+]

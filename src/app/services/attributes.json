@@ -1,0 +1,189 @@
+[{
+    "Question": "Script to be run after the document is printed",
+    "Answer": "onafterprint"
+  },
+  {
+    "Question": "Script to be run before the document is printed",
+    "Answer": "onbeforeprint"
+  },
+  {
+    "Question": "Script to be run when the document is about to be unloaded",
+    "Answer": "onbeforeunload"
+  },
+  {
+    "Question": "Script to be run when an error occurs",
+    "Answer": "onerror"
+  },
+  {
+    "Question": "Script to be run when there has been changes to the anchor part of the a URL",
+    "Answer": "onhashchange"
+  },
+  {
+    "Question": "Fires after the page is finished loading",
+    "Answer": "onload"
+  },
+  {
+    "Question": "Script to be run when the message is triggered",
+    "Answer": "onmessage"
+  },
+  {
+    "Question": "Script to be run when the browser starts to work offline",
+    "Answer": "onoffline"
+  },
+  {
+    "Question": "Script to be run when the browser starts to work online",
+    "Answer": "ononline"
+  },
+  {
+    "Question": "Script to be run when a user navigates away from a page",
+    "Answer": "onpagehide"
+  },
+  {
+    "Question": "Script to be run when a user navigates to a page",
+    "Answer": "onpageshow"
+  },
+  {
+    "Question": "Script to be run when the window's history changes",
+    "Answer": "onpopstate"
+  },
+  {
+    "Question": "Fires when the browser window is resized",
+    "Answer": "onresize"
+  },
+  {
+    "Question": "Script to be run when a Web Storage area is updated",
+    "Answer": "onstorage"
+  },
+  {
+    "Question": "Fires once a page has unloaded (or the browser window has been closed)",
+    "Answer": "onunload"
+  },
+  {
+    "Question": "Fires the moment that the element loses focus",
+    "Answer": "onblur"
+  },
+  {
+    "Question": "Fires the moment when the value of the element is changed",
+    "Answer": "onchange"
+  },
+  {
+    "Question": "Script to be run when a context menu is triggered",
+    "Answer": "oncontextmenu"
+  },
+  {
+    "Question": "Fires the moment when the element gets focus",
+    "Answer": "onfocus"
+  },
+  {
+    "Question": "Script to be run when an element gets user input",
+    "Answer": "oninput"
+  },
+  {
+    "Question": "Script to be run when an element is invalid",
+    "Answer": "oninvalid"
+  },
+  {
+    "Question": "Fires when the Reset button in a form is clicked",
+    "Answer": "onreset"
+  },
+  {
+    "Question": "Fires when the user writes something in a search field (for <input=",
+    "Answer": "onsearch"
+  },
+  {
+    "Question": "Fires after some text has been selected in an element",
+    "Answer": "onselect"
+  },
+  {
+    "Question": "Fires when a form is submitted",
+    "Answer": "onsubmit"
+  },
+  {
+    "Question": "Fires on a mouse click on the element",
+    "Answer": "onclick"
+  },
+  {
+    "Question": "Fires on a mouse double-click on the element",
+    "Answer": "ondblclick"
+  },
+  {
+    "Question": "Fires when a mouse button is pressed down on an element",
+    "Answer": "onmousedown"
+  },
+  {
+    "Question": "Fires when the mouse pointer is moving while it is over an element",
+    "Answer": "onmousemove"
+  },
+  {
+    "Question": "Fires when the mouse pointer moves out of an element",
+    "Answer": "onmouseout"
+  },
+  {
+    "Question": "Fires when the mouse pointer moves over an element",
+    "Answer": "onmouseover"
+  },
+  {
+    "Question": "Fires when a mouse button is released over an element",
+    "Answer": "onmouseup"
+  },
+  {
+    "Question": "Deprecated. Use the onwheel attribute instead",
+    "Answer": "onmousewheel"
+  },
+  {
+    "Question": "Fires when the mouse wheel rolls up or down over an element",
+    "Answer": "onwheel"
+  },
+  {
+    "Question": "Script to be run when an element is dragged",
+    "Answer": "ondrag"
+  },
+  {
+    "Question": "Script to be run at the end of a drag operation",
+    "Answer": "ondragend"
+  },
+  {
+    "Question": "Script to be run when an element has been dragged to a valid drop target",
+    "Answer": "ondragenter"
+  },
+  {
+    "Question": "Script to be run when an element leaves a valid drop target",
+    "Answer": "ondragleave"
+  },
+  {
+    "Question": "Script to be run when an element is being dragged over a valid drop target",
+    "Answer": "ondragover"
+  },
+  {
+    "Question": "Script to be run at the start of a drag operation",
+    "Answer": "ondragstart"
+  },
+  {
+    "Question": "Script to be run when dragged element is being dropped",
+    "Answer": "ondrop"
+  },
+  {
+    "Question": "Script to be run when an element's scrollbar is being scrolled",
+    "Answer": "onscroll"
+  },
+  {
+    "Question": "Fires when the user copies the content of an element",
+    "Answer": "oncopy"
+  },
+  {
+    "Question": "Fires when the user cuts the content of an element",
+    "Answer": "oncut"
+  },
+  {
+    "Question": "Fires when the user pastes some content in an element",
+    "Answer": "onpaste"
+  },
+  {
+    "Question": "Fires when a <menu> element is shown as a context menu",
+    "Answer": "onshow"
+  },
+  {
+    "Question": "Fires when the user opens or closes the <details> element",
+    "Answer": "ontoggle"
+  }
+]
